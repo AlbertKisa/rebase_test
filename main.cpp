@@ -9,6 +9,7 @@ int main()
 	int c;
 	int d;
 	int e;
+	int f;
 
 	return 0;
 }
