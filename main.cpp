@@ -13,5 +13,7 @@ int main()
 
 	int i;
 
+	int m
+
 	return 0;
 }
