@@ -16,6 +16,8 @@ int main()
 	int g;
 	int h;
 
+	int k;
+
 	int m;
 
 	int k4;
