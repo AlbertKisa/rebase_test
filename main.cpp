@@ -13,7 +13,9 @@ int main()
 
 	int i;
 
-	int m
+	int m;
+
+	int k4;
 
 	return 0;
 }
