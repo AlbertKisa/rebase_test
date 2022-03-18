@@ -21,6 +21,8 @@ int main()
 	int k1;
 	int k2;
 
+	int k3;
+
 	int m;
 
 	int k4;
