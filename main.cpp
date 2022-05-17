@@ -27,9 +27,7 @@ int main()
 
 	int k4;
 
-	int k5;
-
-	int k6;
+	int k7;
 
 	return 0;
 }
