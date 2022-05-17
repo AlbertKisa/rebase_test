@@ -29,5 +29,7 @@ int main()
 
 	int k5;
 
+	int k6;
+
 	return 0;
 }
